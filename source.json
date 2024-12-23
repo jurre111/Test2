@@ -1,0 +1,29 @@
+{
+    "name": "Epic Games, Inc.",
+    "iconURL": "https://lh3.googleusercontent.com/a/AEdFTp4r1J73GgT16gqBchihOBWF7kAn_LUDgCEm16UzHQ=s96-c",
+    "website": "https://epicgames.com",
+    "identifier": "com.epicgames.altstore",
+    "tintColor": "#818181",
+    "featuredApps": [
+        "com.epicgames.FortniteGame"
+    ],
+    "apps": [
+        {
+            "name": "Fortnite",
+            "bundleIdentifier": "com.epicgames.FortniteGame",
+            "developerName": "Epic Games Sweden AB",
+            "subtitle": "",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "tintColor": "#5CA399",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://content-download-egs.distro.on.epicgames.com/iOS/Org/o-aa83a0a9bc45e98c80c1b1c9d92e9e/prod-fn/Fortnite/9958ddff-6894-4dfc-9dc8-c69f2b8dfffc/",
+                    "localizedDescription": "Initial release."
+                }
+            ]
+        }
+    ]
+}
